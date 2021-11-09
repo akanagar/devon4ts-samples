@@ -34,13 +34,6 @@
       "tags": [],
       "implicitDependencies": ["angular-basic-pwa"]
     },
-    "angular-elements": {
-      "tags": []
-    },
-    "angular-elements-e2e": {
-      "tags": [],
-      "implicitDependencies": ["angular-elements"]
-    },
     "angular-error-handler": {
       "tags": []
     },
