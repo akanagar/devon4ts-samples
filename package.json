@@ -16,6 +16,7 @@
     "@angular/common": "^12.2.0",
     "@angular/compiler": "^12.2.0",
     "@angular/core": "^12.2.0",
+    "@angular/elements": "^12.2.0",
     "@angular/forms": "^12.2.0",
     "@angular/material": "^12.2.9",
     "@angular/platform-browser": "^12.2.0",
@@ -23,7 +24,10 @@
     "@angular/router": "^12.2.0",
     "@angular/service-worker": "^12.2.0",
     "@nrwl/angular": "12.9.0",
+    "@webcomponents/webcomponentsjs": "^2.6.0",
+    "document-register-element": "^1.14.10",
     "my-ng-library": "file:my-ng-library-0.0.1.tgz",
+    "ngx-build-plus": "^12.2.0",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.11.4"
